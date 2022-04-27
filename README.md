@@ -16,3 +16,4 @@ This repo is deprecated. Please use: https://github.com/NEAR-Edu/near-academy-co
 
 ## NEAR Academy Certification
 https://near.academy/certificate/brkyydnmz
+![Certification](https://raw.githubusercontent.com/brkyydnmz/near-academy-contracts/main/Near%20Academy.jpg)
