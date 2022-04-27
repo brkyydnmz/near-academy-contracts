@@ -14,3 +14,6 @@ This repo is deprecated. Please use: https://github.com/NEAR-Edu/near-academy-co
  Once the meme contract is deployed, you can verify that it was created by returning the list of all available memes: near view museum.testnet get_meme_list. You may now also find it on the blockchain explorer, it is in the public domain now.
 
  On BlockChain: https://explorer.testnet.near.org/transactions/BaLLyjdoosHzjeZ3mj63ABEd7PSE15ynaqGe6w5vCygg
+
+## NEAR Academy Certification
+https://near.academy/certificate/brkyydnmz
